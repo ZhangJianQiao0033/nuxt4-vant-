@@ -4,6 +4,5 @@ node_modules
 dist
 .output
 .nuxt
-.env
 .idea/
 public/assets/fonts
